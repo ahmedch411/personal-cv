@@ -11,3 +11,7 @@ hr {
 h1 {
   color: #34626c;
 }
+
+h1:hover {
+    color: black;
+}
